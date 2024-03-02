@@ -1,0 +1,194 @@
+a{
+    text-decoration: none;
+    color: 
+    #252B42;
+}
+
+li{
+    list-style: none;
+    font-size: 25px;
+}
+
+.ul-first{
+    display: flex;
+    justify-content: space-around;
+}
+
+.h3-first{
+    padding-top: 70px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.h1-first{
+    color: #ffffff;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    max-width: 420px;
+    margin: 0 auto;
+}
+
+.p-first{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.ul-second{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    height: 60px;
+    gap: 60px;
+}
+
+.h2-first{
+    display: flex;
+    justify-content: center;
+}
+
+.div-first{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+.ul-third{
+    max-width: 400px;
+}
+
+.div-second{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+
+
+.ul-fours{
+    max-width: 400px;
+}
+
+
+header{
+    padding-top: 35px;
+    padding-bottom: 25px;
+}
+
+.section-first{
+    background-color: black;
+    height: 500px;
+}
+    
+
+
+
+.button-first{
+
+    font-size: 30px;
+    border-radius: 30px;
+    background-color: rgb(107, 88, 88);
+}
+
+
+
+button{
+    
+    color: #ffffff;
+    border-color: none;
+}
+
+.button-second{
+    font-size: 30px;
+    background-color: #FA4A0C;
+    border-radius: 30px;
+}
+.h2-second{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+    padding-top: 150px;
+}
+
+.h4-first{
+    display: flex;
+    justify-content: center;
+    font-size: 19px;
+    color: white;
+}
+
+.ul-fifth{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 60px;
+}
+
+.button-third{
+    font-size: 27px;
+    height: 50px;
+    background-color: #FA4A0C;
+    border-radius: 10px;
+}
+
+.button-forth{
+    font-size: 27px;
+    height: 50px;
+    background-color: rgb(107, 88, 88);
+    border-radius: 10px;
+}
+
+.section-second{
+    background-color: black;
+    height: 450px;
+    
+}
+
+
+.ul-last{
+    padding-top: 100px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    gap:1000px;
+}
+
+span{
+    color: rgb(0, 132, 255);
+}
+
+
+
+body{
+    margin: 0 auto;
+}
+
+
+a:hover{
+    color: #FA4A0C;
+    transition: 2s;
+}
+
+
+.h3-last{
+    color: #FA4A0C;
+}
+
+
+
+
+
+.h4-last{
+    color: #737373;
+}
+
+
+button{
+    
+}
